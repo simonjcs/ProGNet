@@ -53,6 +53,7 @@ cd ProsRegNet
 
 If you use the this code in an academic paper, please cite this paper*:
 
+```bibtex
 @article{soerensen2021deep,
   title={Deep Learning Improves Speed and Accuracy of Prostate Gland Segmentations on MRI for Targeted Biopsy},
   author={Soerensen, Simon John Christoph and Fan, Richard E and Seetharaman, Arun and Chen, Leo and Shao, Wei and Bhattacharya, Indrani and Kim, Yong-hun and Sood, Rewa and Borre, Michael and Chung, Benjamin I and others},
@@ -61,5 +62,6 @@ If you use the this code in an academic paper, please cite this paper*:
   year={2021},
   publisher={Wolters Kluwer Philadelphia, PA}
 }
+```
 
 * For academic use of the intensity normalization and U-Net usage steps, please cite the corresponding authors github.com/jcreinhold/intensity-normalization &  github.com/zhixuhao/unet
