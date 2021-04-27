@@ -75,12 +75,19 @@ https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_norm
 
 https://github.com/zhixuhao/unet/blob/master/model.py
  
-#### 5. Place the nyul.py code within "step3" in line 392 of the ProGNet_Segmentation.py main code and update it for use.
-Run code
+#### 5. Prepare the MRI intensity normalization for use:
 
-Put together code
+Put the nyul.py code in line 392 line after "def Step3(outputDir, standardHist): ## Place intensity normalization code here" and update the code for use.
 
-Change model paths Including t2 & nyul
+### 6. Prepare the deep learning model for use:
 
-place unet in folder
+Put the the model.py code in line 331 of the main ProGNet_Segmentation.py file after "## Place deep learning code here" and update this part for use.
 
+### 7. Update filepaths in the main ProGNet_Segmentation.py file:
+
+- Update the input path in line 1277. This folder contain T2-DICOM folders. 
+- Update the output path in line 1278. This folder will contain T2-DICOM folders that also include a SEG-DICOM file.
+- Update the filepath in line 1279 to point to the downloaded std_hist_T2.npy file.
+- Update the filepath in line 1280 to point to the progNet_t2.h5 model weights
+
+### 8. 
