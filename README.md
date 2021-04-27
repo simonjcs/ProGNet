@@ -72,8 +72,8 @@ https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_norm
 
 https://github.com/zhixuhao/unet/blob/master/model.py
 
-####  (Credits: 
-
-#### Download
+Run 
+Put together code
+Change model paths
 
 
