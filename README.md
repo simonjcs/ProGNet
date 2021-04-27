@@ -75,7 +75,7 @@ https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_norm
 
 https://github.com/zhixuhao/unet/blob/master/model.py
  
-#### 5. Place the nyul.py code within step 3 and update it 
+#### 5. Place the nyul.py code within "step3" in line 392 of the ProGNet_Segmentation.py main code and update it for use.
 Run code
 
 Put together code
