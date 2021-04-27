@@ -28,7 +28,7 @@ If you use this code in an academic paper, please cite this paper:
 
 ## Usage
 
-### 1. Install the dependencies:
+#### 1. Install the dependencies:
 Python 3.7.6
 
 tensorflow 2.0.0
@@ -59,12 +59,22 @@ trimesh
 
 vtk
 
-#### Download ProGNet.py
+#### 2. Download necessary files from this repository:
 
-### Run step1.py
+ProGNet_Segmentation.py (main code)
 
-###  (Credits: 
+prognet_t2.h5 (model weights)
 
-### Download
+#### 3. Download the following code and cite the author:
+
+https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_normalization/normalize/nyul.py
+
+#### 4. Download the following code and cite the author
+
+https://github.com/zhixuhao/unet/blob/master/model.py
+
+####  (Credits: 
+
+#### Download
 
 
