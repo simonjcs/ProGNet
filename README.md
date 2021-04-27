@@ -11,7 +11,7 @@ The use of this code is for research purposes only. If you have any questions re
 
 ## Citation
 
-If you use this code in an academic paper, please cite our paper:
+If you use this code in an academic paper, please cite our article:
 
 ```bibtex
 @article{soerensen2021deep,
