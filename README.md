@@ -61,8 +61,7 @@ vtk
 
 #### 2. Download necessary files from this repository:
 
-ProGNet_Segmentation.py (main code)
-
+[ProGNet_Segmentation.py](https://github.com/simonjcs/ProGNet/blob/main/ProGNet_Segmentation.py) (main code)
 prognet_t2.h5 (model weights)
 
 #### 3. Download the following code and cite the author:
