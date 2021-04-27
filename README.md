@@ -5,9 +5,9 @@ This is the Tensorflow implementation of the following paper:
 Soerensen SJC, et al. "Deep Learning Improves Speed and Accuracy of Prostate Gland Segmentations on MRI for Targeted Biopsy". J Urol. 2021 Apr 21: [https://www.auajournals.org/doi/10.1097/JU.0000000000001783]
 
 ## Introduction
-Accurate prostate segmentation on MRI is critical for biopsy, yet manual segmentation is tedious and time-consuming. To address this, we developed a deep learning model and used it in a clinical setting to rapidly and accurately segment the prostate on MRI, as well as shared the code online.
+Accurate prostate segmentation on MRI is critical for biopsy, yet manual segmentation is tedious and time-consuming. To address this, we developed a deep learning model and used it in a clinical setting to rapidly and accurately segment the prostate on MRI and shared the code online.
 
-The use of this code is for research purposes only. If you have any questions regarding how to use this code, please send an email to simonjcs [at] stanford [dot] edu. It has been tested succesfully on a Windows 10 machine with a NVIDIA V100 graphics card, Python 3.7, and Tensorflow 2.0
+The use of this code is for research purposes only. If you have any questions regarding how to use this code, please send an email to simonjcs [at] stanford [dot] edu. It has been tested successfully on a Windows 10 machine with an NVIDIA V100 graphics card, Python 3.7, and Tensorflow 2.0.
 
 ## Citation
 
@@ -66,11 +66,11 @@ vtk
 
 [prognet_t2.h5](https://github.com/simonjcs/ProGNet/blob/main/prognet_t2.h5) (model weights)
 
-#### 3. Download the following code and cite the author:
+#### 3. Download the following code and cite the authors:
 
 https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_normalization/normalize/nyul.py
 
-#### 4. Download the following code and cite the author:
+#### 4. Download the following code and cite the authors:
 
 https://github.com/zhixuhao/unet/blob/master/model.py
  
