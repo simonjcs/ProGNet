@@ -61,7 +61,7 @@ If you use this code in an academic paper, please cite our article:
  
 #### 5. Prepare the MRI intensity normalization code for use:
 
-- Put the nyul.py code in line 392 line after "def Step3(outputDir, standardHist): ## Place intensity normalization code here" and update the code for use.
+- Put the nyul.py code in line 392 line of the main ProGNet_Segmentation.py after "def Step3(outputDir, standardHist): ## Place intensity normalization code here" and update the code for use.
 
 #### 6. Prepare the deep learning model for use:
 
