@@ -9,16 +9,6 @@ Accurate prostate segmentation on MRI is critical for biopsy, yet manual segment
 
 The use of this code is for research purposes only. If you have any questions regarding how to use this code, please send an email to simonjcs [at] stanford [dot] edu. It has been tested succesfully on a Windows 10 machine with a NVIDIA V100 graphics card, Python 3.7, and Tensorflow 2.0
 
-## Dependencies
-Python 3.7.6; tensorflow 2.0.0; numpy  1.18.4; pandas 0.25.3; pydicom 1.4.1; SimpleITK 2.02; matplotlib 3.1.1; nibabel 3.0.1; scipy 1.3.2; pydicom-seg 0.1.0; pyntcloud 0.1.2; scikit-image 0.16.2; scikit-learn 0.22.1; trimesh; vtk
-
-## Usage
-1. Clone the repository:
-```
-git clone https://github.com/pimed/ProsRegNet.git
-cd ProsRegNet
-```
-
 ## Citation
 
 If you use this code in an academic paper, please cite this paper*:
@@ -35,3 +25,17 @@ If you use this code in an academic paper, please cite this paper*:
 ```
 
  \* If you use the intensity normalization step, and/or use the U-net architecture, please cite the authors: https://github.com/jcreinhold/intensity-normalization & https://github.com/zhixuhao/unet
+
+## Dependencies
+Python 3.7.6; tensorflow 2.0.0; numpy  1.18.4; pandas 0.25.3; pydicom 1.4.1; SimpleITK 2.02; matplotlib 3.1.1; nibabel 3.0.1; scipy 1.3.2; pydicom-seg 0.1.0; pyntcloud 0.1.2; scikit-image 0.16.2; scikit-learn 0.22.1; trimesh; vtk
+
+## Usage
+1. Clone the repository:
+
+Python 3.7.6; tensorflow 2.0.0; numpy 1.18.4; pandas 0.25.3; pydicom 1.4.1; SimpleITK 2.02; matplotlib 3.1.1; nibabel 3.0.1; scipy 1.3.2; pydicom-seg 0.1.0; pyntcloud 0.1.2; scikit-image 0.16.2; scikit-learn 0.22.1; trimesh; vtk
+```
+git clone https://github.com/pimed/ProsRegNet.git
+cd ProsRegNet
+```
+
+
