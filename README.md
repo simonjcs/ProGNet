@@ -7,7 +7,7 @@ Soerensen SJC, et al. "Deep Learning Improves Speed and Accuracy of Prostate Gla
 ## Introduction
 Accurate prostate segmentation on MRI is critical for biopsy, yet manual segmentation is tedious and time-consuming. To address this, we developed a deep learning model and used it in a clinical setting to rapidly and accurately segment the prostate on MRI and shared the code online.
 
-The use of this code is for research purposes only. If you have any questions regarding how to use this code, please send an email to simonjcs [at] stanford [dot] edu. It has been tested successfully on a Windows 10 machine with an NVIDIA V100 graphics card, Python 3.7, and Tensorflow 2.0.
+The use of this code is for research purposes only. If you have any questions regarding how to use this code, please send an email to simonjcs [at] stanford [dot] edu. The code has been tested successfully on a Windows 10 machine with an NVIDIA V100 graphics card, Python 3.7, and Tensorflow 2.0.
 
 ## Citation
 
