@@ -74,6 +74,7 @@ https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_norm
 
 https://github.com/zhixuhao/unet/blob/master/model.py
  
+#### 5. Place the nyul.py code within step 3 and update it 
 Run code
 
 Put together code
