@@ -31,7 +31,7 @@ Python 3.7.6; tensorflow 2.0.0; numpy  1.18.4; pandas 0.25.3; pydicom 1.4.1; Sim
 
 ## Usage
 
-1. Install the dependencies:
+### 1. Install the dependencies:
 Python 3.7.6; 
 
 tensorflow 2.0.0
