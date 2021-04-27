@@ -59,10 +59,11 @@ trimesh
 
 vtk
 
-#### 2. Download two files from this repository:
+#### 2. Download three files from this repository:
 
 [ProGNet_Segmentation.py](https://github.com/simonjcs/ProGNet/blob/main/ProGNet_Segmentation.py) (main code)
 
+[std_hist_T2.npy](https://github.com/simonjcs/ProGNet/blob/main/std_hist_T2.npy) (MRI intensities learned prior to model training)
 
 [prognet_t2.h5](https://github.com/simonjcs/ProGNet/blob/main/prognet_t2.h5) (model weights)
 
