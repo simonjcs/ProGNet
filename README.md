@@ -2,7 +2,7 @@
 
 This page aims to describe and share the code presented in the following paper:
 
-Soerensen SJC, Fan RE, et al. "Deep Learning Improves Speed and Accuracy of Prostate Gland Segmentations on MRI for Targeted Biopsy". J Urol. 2021 Apr 21: [https://www.auajournals.org/doi/10.1097/JU.0000000000001783]
+Soerensen SJC, Fan RE, Seetharaman A, et al. "Deep Learning Improves Speed and Accuracy of Prostate Gland Segmentations on MRI for Targeted Biopsy". J Urol. 2021 Apr 21: [https://www.auajournals.org/doi/10.1097/JU.0000000000001783]
 
 ## Introduction
 Accurate prostate segmentation on MRI is critical for biopsy, yet manual segmentation is tedious and time-consuming. To address this, we developed a deep learning model and used it in a clinical setting to rapidly and accurately segment the prostate on MRI and shared the code online.
