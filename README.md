@@ -73,8 +73,12 @@ https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_norm
 #### 4. Download the following code and cite the author:
 
 https://github.com/zhixuhao/unet/blob/master/model.py
+ 
+Run code
 
-Run 
 Put together code
+
 Change model paths Including t2 & nyul
+
+place unet in folder
 
