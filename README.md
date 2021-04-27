@@ -41,3 +41,25 @@ scikit-learn 0.22.1
 trimesh
 
 vtk
+
+### Usage
+1. Clone the repository:
+```
+git clone https://github.com/pimed/ProsRegNet.git
+cd ProsRegNet
+```
+
+### Citation
+
+If you use the this code in an academic paper, please cite this paper*:
+
+@article{soerensen2021deep,
+  title={Deep Learning Improves Speed and Accuracy of Prostate Gland Segmentations on MRI for Targeted Biopsy},
+  author={Soerensen, Simon John Christoph and Fan, Richard E and Seetharaman, Arun and Chen, Leo and Shao, Wei and Bhattacharya, Indrani and Kim, Yong-hun and Sood, Rewa and Borre, Michael and Chung, Benjamin I and others},
+  journal={The Journal of Urology},
+  pages={10--1097},
+  year={2021},
+  publisher={Wolters Kluwer Philadelphia, PA}
+}
+
+* For academic use of the intensity normalization and U-Net usage steps, please cite the corresponding authors github.com/jcreinhold/intensity-normalization &  github.com/zhixuhao/unet
