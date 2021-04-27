@@ -59,16 +59,18 @@ trimesh
 
 vtk
 
-#### 2. Download necessary files from this repository:
+#### 2. Download two files from this repository:
 
 [ProGNet_Segmentation.py](https://github.com/simonjcs/ProGNet/blob/main/ProGNet_Segmentation.py) (main code)
+
+
 [prognet_t2.h5](https://github.com/simonjcs/ProGNet/blob/main/prognet_t2.h5) (model weights)
 
 #### 3. Download the following code and cite the author:
 
 https://github.com/jcreinhold/intensity-normalization/blob/master/intensity_normalization/normalize/nyul.py
 
-#### 4. Download the following code and cite the author
+#### 4. Download the following code and cite the author:
 
 https://github.com/zhixuhao/unet/blob/master/model.py
 
