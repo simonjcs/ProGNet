@@ -30,9 +30,41 @@ If you use this code in an academic paper, please cite this paper:
 Python 3.7.6; tensorflow 2.0.0; numpy  1.18.4; pandas 0.25.3; pydicom 1.4.1; SimpleITK 2.02; matplotlib 3.1.1; nibabel 3.0.1; scipy 1.3.2; pydicom-seg 0.1.0; pyntcloud 0.1.2; scikit-image 0.16.2; scikit-learn 0.22.1; trimesh; vtk
 
 ## Usage
-1. Clone the repository:
 
-Python 3.7.6; tensorflow 2.0.0; numpy 1.18.4; pandas 0.25.3; pydicom 1.4.1; SimpleITK 2.02; matplotlib 3.1.1; nibabel 3.0.1; scipy 1.3.2; pydicom-seg 0.1.0; pyntcloud 0.1.2; scikit-image 0.16.2; scikit-learn 0.22.1; trimesh; vtk
+1. Install the dependencies:
+Python 3.7.6; 
+
+tensorflow 2.0.0
+
+numpy  1.18.4
+
+pandas 0.25.3
+
+pydicom 1.4.1
+
+SimpleITK 2.02
+
+matplotlib 3.1.1
+
+nibabel 3.0.1
+
+scipy 1.3.2
+
+pydicom-seg 0.1.0
+
+pyntcloud 0.1.2
+
+scikit-image 0.16.2
+
+scikit-learn 0.22.1
+
+trimesh
+
+vtk
+
+
+
+Python 3.7.6tensorflow 2.0.0; numpy 1.18.4; pandas 0.25.3; pydicom 1.4.1; SimpleITK 2.02; matplotlib 3.1.1; nibabel 3.0.1; scipy 1.3.2; pydicom-seg 0.1.0; pyntcloud 0.1.2; scikit-image 0.16.2; scikit-learn 0.22.1; trimesh; vtk
 ```
 git clone https://github.com/pimed/ProsRegNet.git
 cd ProsRegNet
