@@ -69,8 +69,8 @@ If you use this code in an academic paper, please cite our article:
 
 #### 7. Update filepaths in the main ProGNet_Segmentation.py file:
 
-- Update the input path in line 1277. This folder contain T2-DICOM folders. 
-- Update the output path in line 1278. This folder will contain T2-DICOM folders that also include a SEG-DICOM file.
+- Update the input path in line 1277. This folder should contain T2-DICOM folders. 
+- Update the output path in line 1278. This folder will (if the code was succesfully run) contain T2-DICOM folders that also include a SEG-DICOM file.
 - Update the filepath in line 1279 to point to the downloaded std_hist_T2.npy file.
 - Update the filepath in line 1280 to point to the progNet_t2.h5 model weights
 
