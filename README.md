@@ -64,4 +64,4 @@ If you use the this code in an academic paper, please cite this paper*:
 }
 ```
 
- \* For academic use of the intensity normalization and U-Net usage steps, please cite the corresponding authors github.com/jcreinhold/intensity-normalization &  github.com/zhixuhao/unet
+ \* For academic use of the intensity normalization and U-Net usage steps, please cite the corresponding authors https://github.com/jcreinhold/intensity-normalization &  https://github.com/zhixuhao/unet
