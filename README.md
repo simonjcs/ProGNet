@@ -56,7 +56,7 @@ If you use the this code in an academic paper, please cite this paper*:
 ```bibtex
 @article{soerensen2021deep,
   title={Deep Learning Improves Speed and Accuracy of Prostate Gland Segmentations on MRI for Targeted Biopsy},
-  author={Soerensen, Simon John Christoph and Fan, Richard E and Seetharaman, Arun and Chen, Leo and Shao, Wei and Bhattacharya, Indrani and Kim, Yong-hun and Sood, Rewa and Borre, Michael and Chung, Benjamin I and others},
+  author={Soerensen, Simon John Christoph and Fan, Richard E and Seetharaman, Arun and Chen, Leo and Shao, Wei and Bhattacharya, Indrani and Kim, Yong-hun and Sood, Rewa and Borre, Michael and Chung, Benjamin I and Sonn, Geoffrey A and Rusu, Mirabela},
   journal={The Journal of Urology},
   pages={10--1097},
   year={2021},
