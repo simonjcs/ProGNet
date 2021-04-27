@@ -26,9 +26,6 @@ If you use this code in an academic paper, please cite this paper:
 
  \* If you use the intensity normalization step, and/or use the U-net architecture, please cite the authors: https://github.com/jcreinhold/intensity-normalization & https://github.com/zhixuhao/unet
 
-## Dependencies
-Python 3.7.6; tensorflow 2.0.0; numpy  1.18.4; pandas 0.25.3; pydicom 1.4.1; SimpleITK 2.02; matplotlib 3.1.1; nibabel 3.0.1; scipy 1.3.2; pydicom-seg 0.1.0; pyntcloud 0.1.2; scikit-image 0.16.2; scikit-learn 0.22.1; trimesh; vtk
-
 ## Usage
 
 ### 1. Install the dependencies:
@@ -62,7 +59,7 @@ trimesh
 
 vtk
 
-### Run step1.py
+### Download ProGNet.py
 
 ### Run step1.py
 
