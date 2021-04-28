@@ -1,5 +1,5 @@
 """
-Author: Simon John Christoph Soerensen, MD, et al. (simonjcs@stanford.edu)
+Author: Simon John Christoph Soerensen, MD. (simonjcs@stanford.edu)
 Link to paper: https://www.auajournals.org/doi/10.1097/JU.0000000000001783
 Created: February 16, 2021
 Latest Version: April 10, 2021
