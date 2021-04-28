@@ -1276,7 +1276,7 @@ def Step6(output):
      
 inputDir = "Z:/Input"
 outputDir = "Z:/Output"
-standardHist = 'Z:/std_hist_T22.npy'
+standardHist = 'Z:/std_hist_T2.npy'
 modelPath = 'Z:/prognet_t2.h5'
 
 Step1(inputDir, outputDir)
