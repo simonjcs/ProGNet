@@ -709,10 +709,15 @@ def Step4(outputDir, modelPath):
             else:
                 continue
 
-            if x + 1 < width:
+           if x + 1 < width:
                 points_to_check.append([x+1,y])
             if x - 1 >= 0:
                 points_to_check.append([x-1,y])
+
+            if y + 1 < height:
+                points_to_check.append([x,y+1])
+            if y - 1 >= 0:
+                points_to_check.append([x,y-1])
 
             if y + 1 < height:
                 if x + 1 < width:
@@ -725,7 +730,6 @@ def Step4(outputDir, modelPath):
                     points_to_check.append([x+1,y-1])
                 if x - 1 >= 0:
                     points_to_check.append([x-1,y-1])
-
 
     def get_island_map(image_np_orig, threshold):
         height = len(image_np_orig)
